@@ -1,5 +1,5 @@
-Type Script Assignments
-1-	Create array that accept  number only 
+#Type Script Assignments
+##1-	Create array that accept  number only 
 2-	Create array that accept string and number only and print all items
 3-	Create a variable that accept number and Boolean only 
 4-	Create function with two parameter try to call it without any parameter “handling”
